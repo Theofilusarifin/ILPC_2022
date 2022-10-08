@@ -1,0 +1,11 @@
+1. Web penilaian rally
+Sistem penilaian rally pada umumnya. 
+Tim akan login, disitu bisa ngeliat poin rally. 
+Dari penjaga pos, login sebagai penjagapos. Dia bisa ngedit sleuruh game yang ada. Dari tim bisa ngeliat sudah masuk skornya berapa.
+
+List gamenya ada di layar. 
+Nama namanya ada disitu.
+
+
+
+2. Gamebes

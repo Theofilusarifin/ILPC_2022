@@ -1,0 +1,496 @@
+id,nama,regency_id,alamat
+1,SMK Saraswati 2,282,Jln. Soka no. 47
+2,SMA Katolik Santo Yosep,282,Jln. Serma Kawi no. 4
+3,SMA Muhammadiyah 1,282,Jln. Pulau Batanta no. 80
+4,SMA Negeri 1,282,Jln. Kamboja
+5,SMA Negeri 2,282,Jln. Jenderal Sudirman
+6,SMA Negeri 3,282,Jln. Nusa Indah no. 20
+7,SMA Negeri 4,282,Jln. Gunung Rinjani - Perumnas Monang-Maning
+8,SMA Negeri 5,282,Jln. Sanifasi no. 2
+9,SMA Negeri 6,282,Jln. Tukad Nyali gang SMA 6 Sanur
+10,SMA Negeri 7,282,Jln. Kamboja no. 9
+11,SMA Negeri 8,282,Jln. Antasura
+12,SMA Saraswati,282,Jln. Kamboja no. 11-A
+13,SMA Taman Rama,282,Jln. Cokroaminoto no. 382 - Ubung Kaja
+14,SMA Negeri 1 Semarapura,280,Jln. Flamboyan no. 63 Semarapura
+15,SMA Lab. Undiksha,276,Jln. Jatayu no. 10
+16,SMA Negeri 1,276,Jln. Pramuka no. 4
+17,SMA Negeri 4,276,Jln. Melati
+18,SMA Negeri 1,281,Jln. Gunung Agung no. 122
+19,SMA Negeri 2,281,Jln. Mawar - Delot Peken
+20,SMA Katolik Kolese De Britto,235,Jln. Laksda Adi Sucipto no. 161
+21,SMA BOPKRI 1,235,Jln. Wardani 2 Kotabaru
+22,SMA Negeri 1,235,Jln. HOS Cokroaminoto no. 10
+23,SMA Negeri 4,235,Jln. Magelang Karang Waru Lor
+24,SMA Pangudi Luhur,235,Jln. Panembahan Senopati no. 18
+25,SMA Santa Maria,235,Jln. Ireda no. 19-A
+26,SMA Stella Duce 1,235,Jln. Sabirin no. 1-3
+27,SMA Stella Duce 2,235,Jln. Dr. Sutomo no. 16
+28,SMA Negeri 8,235,Jln. Sidobali no. 1 Muja Muju
+29,SMA Internasional Budi Mulia Dua,234,Jln. Raya Tajem Dusun Panjen Wedo Martani Kecamatan Ngemplak Sleman
+30,SMA Muhammadiyah 1,235,Jln. Gotongroyong II Petinggen Karangwaru Tegalrejo
+31,SMA Kristen 1 BPK Penabur,164,Jln. Tanjung Duren Raya no. 4 - Grogol Petamburan
+32,SMA Katolik Bunda Hati Kudus,164,Jln. Rahayu no. 22 - Grogol Petamburan
+33,SMA Kanisius,165,Jln. Menteng Raya no. 64
+34,SMA Kanaan,165,Jln. Kran Raya no. 7 Kemayoran
+35,SMA Negeri 6,166,Jln. Mahakam I Blok C no. 2 - Kebayoran Baru
+36,SMA PSKD IV,166,Jln. Panglima Polim II no. 51-A Kebayoran Baru
+37,SMA Negeri 8,166,Jln. Taman Bukitduri Tebet
+38,SMA Santa Ursula,165,Jln. Pos no. 2
+39,SMA Negeri 3,166,Jln. Setiabudi II
+40,SMA Don Bosco II,167,Jln. Pulau Mas Barat V
+41,SMA Negeri 1,199,Jln. Tentara Pelajar no. 21
+42,SMA Negeri 1,199,Jln. Diponegoro no. 55
+43,SMA Yos Sudarso,202,Jln. A. Yani no. 54
+44,SMA Kristen 1 BPK Penabur,192,Jln. Dr. Cipto Mangunkusumo no. 24
+45,SMA Santa Maria 1,192,Jln. Sisingamangaraja no. 22
+46,SMA Wijaya Kusuma,199,Jln. Jend. A. Yani no. 19 A
+47,SMA Negeri 1,209,Jln. Merbabu no. 13
+48,SMA Keluarga,211,Jln. Yos Sudarso no. 236
+49,SMA Masehi,211,Jln. K.H. Wahid Hasyim no. 51
+50,SMA Negeri 1,211,Jln. Pramuka no. 41
+51,SMA Negeri 1,212,Jln. Cempaka no. 1
+52,SMA Pangudi Luhur Van Lith,212,Jln. Kartini no. 1 Muntilan
+53,SMA Tarakanita,212,Jln. Beringin VI
+54,SMA Seminari Menengah Santo Petrus Kanisius,212,Jln. Mayjen Bambang Soegeng Mertoyudan no. 15
+55,SMA Taruna Nusantara,212,"Jln. Raya Purworejo - Magelang , km. 5"
+56,SMA Negeri 1,213,Jln. Panglima Sudirman no. 24
+57,SMA Negeri 2,213,Jln. Ahmad Yani no. 4
+58,SMA Yos Sudarso,213,"Jln. Raya Pati Tayu , km. 2, Kutoharjo"
+59,SMA Negeri 1,226,Jln. RA. Kartini no. 39
+60,SMA Negeri 1,216,Jln. Letjen MT Haryono
+61,SMA Bruderan,197,Jln. Gatot Subroto no. 63
+62,SMA Negeri 1,197,Jln. Gatot Subroto no. 73
+63,SMA Santa Maria,218,"Jln. Pemuda , km 2 no. 39"
+64,SMA Kristen 1,227,Jln. Osamaliki 32
+65,SMA Katolik Satya Wacana,227,Jln. Pangeran Diponegoro no. 52 - 60
+66,SMA Negeri 3,227,Jln. Kartini no. 34
+67,SMA Citi School,228,Jln. Yos Sudarso no. 9 (Arteri Utara - Puri Anjasmoro)
+68,SMA Advent,228,Jln. MT. Haryono no. 478
+69,SMA Don Bosco,228,Jln. Sultan Agung no. 133 Gajah Mungkur
+70,SMA Karangturi,228,Jln. Padma Boulevard Selatan Blok F
+71,SMA Kebon Dalem,228,Jln. Wot Gandul Barat no. 31 - 33
+72,SMA Sint Louis,228,Jln. Dr. Wahidin no. 110
+73,SMA Setiabudhi,228,Jln. WR. Supratman no. 37
+74,SMA Kristen Tri Tunggal,228,Jln. Semarang Indah Blok F/1
+75,SMA Kesatrian 2,228,Jln. Gajah Raya no. 58
+76,SMA Negeri 1,228,Jln. Taman Menteri Supeno no. 1
+77,SMA Negeri 3,228,Jln. Pemuda no. 149
+78,SMA Negeri 9,228,Jln. Cemara Raya Padangsari Banyumanik
+79,SMA Sedes Sapientiae,228,Jln. M.T. Haryono no. 908
+80,SMA YSKI,228,Jln. Sidodadi Timur no. 23
+81,SMA Katolik Kolose Loyola,228,Jln. Karang Anyar no. 37
+82,SMA Kristen Krista Mitra,228,Jln. Perum Puri Anjasmoro FF-1
+83,SMA Katolik Theresiana 1,228,Jln. Mayjen Sutoyo 69
+84,SMA Katolik Theresiana 2,228,Jln. Gajah Mada no. 91
+85,SMA Kristen Kalam Kudus,229,Jln. Diponegoro Madegond Nggrogol Sukoharjo
+86,SMA Negeri 1,229,Jln. Monginsidi no. 40
+87,SMA Negeri 3,229,Jln. Prof. WZ Yohanes no. 58
+88,SMA Negeri 6,229,Jln. Mr. Sartono no. 30
+89,SMA Pangudi Luhur,229,Jln. L.U. Adi Sucipto
+90,SMA Regina Pacis,229,Jln. L.U. Adi Sucipto no. 45
+91,SMA Warga,229,Jln. Monginsidi no. 21
+92,SMA Widya Wacana,229,Jln. Mertolulutan no. 26 Solo
+93,SMA Negeri 1,230,Jln. Menteri Supeno no. 16
+94,SMA Negeri 1,222,Jln. Kartini no. 4
+95,SMA Negeri 3,236,Jln. R.E. Martadinata no. 54
+96,SMA Hikmah Mandala,237,Jln. Jaksa Agung Suprapto no. 74
+97,SMA Negeri 1 Genteng,237,Jln. Kalisetail no. 20
+98,SMA Negeri 1 Giri,237,Jln. HOS Cokroaminoto no. 38
+99,SMA Negeri 1 Glagah,237,Jln. Melati no. 1
+100,SMA Negeri 1,265,Jln. KH. Agus Salim no. 57
+101,SMA Yos Sudarso,265,Jln. Panglima Sudirman no. 63
+102,SMA Negeri 1,266,Jln. Jend. Ahmad Yani no. 112
+103,SMA Katolik Diponegoro,266,Jln. Diponegoro no. 32
+104,SMA Negeri 1,239,Jln. Panglima Sudirman no. 28
+105,SMA Negeri 4,239,Jln. AKBP. M. Suroko no. 30
+106,SMA Negeri 1 Cerme,241,Jln. Raya Cerme Lor no. 376
+107,SMA Negeri 1,241,Jln. Arief Rachman Hakim no. 1
+108,SMA Yayasan Wisma Semen Gresik,241,Jln. Veteran
+109,SMA Negeri 1,242,Jln. Letjen Panjaitan no. 55
+110,SMA Negeri 2,242,Jln. Jawa no. 16 
+111,SMA Katolik Santo Paulus,242,Jln. Trunojoyo no. 22 C
+112,SMA Katolik Satya Cendika,242,Jln. Mojopahit X no. 16
+113,SMA Negeri 2,240,Jln. Letjen Suprapto no. 153
+114,SMA Negeri 1,243,Jln. Diponegoro no. 8 
+115,SMA Negeri 1 Ngoro,243,Jln. Kawi 6 Ngoro
+116,SMA Negeri 2,243,Jln. Dr. Wahidin Sudiro Husodo no. 1
+117,SMA PGRI 1,243,Jln. Patimura V no. 73
+118,SMA Kristen Petra,267,Jln. Medang Kamulan no. 48
+119,SMA Negeri 1,267,Jln. Veteran no. 1
+121,SMA Negeri 2 Pare,244,Jln. Pahlawan K.B. no. 28 Pare
+123,SMA Katolik Santo Augustinus,267,Jln. Veteran no. 3
+125,SMA Katolik Untung Suropati Krian,259,Jln. Ki Hajar Dewantara no. 35
+126,SMA Negeri 1,245,Jln. Veteran no. 41
+127,SMA Negeri 2,245,Jln. Veteran no. 1
+128,SMA Negeri 1,246,Jln. Jendral Ahmad Yani no. 7
+129,SMA Negeri 2,246,Jln. HOS Cokroaminoto no. 159
+130,SMA Negeri 1,268,Jln. Mastrip no. 19
+131,SMA Negeri 2,268,Jln. Biliton no. 24
+132,SMA Negeri 3,268,Jln. Ring Road Barat
+133,SMA Negeri 4,268,Jln. Serayu Timur no. 80
+134,SMA Negeri 6,268,Jln. Suhud Nosingono no. 1
+135,SMA Katolik Santo Bonaventura,268,Jln. Diponegoro no. 45
+136,SMA Negeri 1,248,Jln. Monginsidi no. 24
+137,SMA Kristen Kalam Kudus,269,Jln. Prof. Moh. Yamin no. 47
+138,SMA Negeri 10,269,Jln. Danau Grati no. 1
+139,SMA Negeri 1,269,Jln. Tugu Utara no. 11
+140,SMA Negeri 3,269,Jln. Sultan Agung Utara no. 7
+141,SMA Santa Maria,269,Jln. Raya Langsep no. 41
+142,SMA Frateran,269,Jln. Brigjen Slamet Agung Suprapto no. 58
+143,SMA Taman Harapan,269,Jln. Mojopahit no. 1
+144,SMA Katolik Cor Jesu,269,Jln. Jaksa Agung Suprapto no. 55
+145,SMA Katolik Kolese Santo Yusup,269,Jln. Simpang Borobudur no. 1
+146,SMA Katolik Santo Albertus,269,Jln. Talang no. 1
+147,SMA Negeri 1,270,Jln. Irian Jaya no. 1
+148,SMA Negeri 1 Sooko,250,Jln. R. A. Basuni no. 361
+149,SMA Thomas Aquino,270,Jln. Niaga no. 15
+150,SMA Taruna Nusa Harapan,270,Jln. Letkol Soemarjo no. 67
+151,SMA Negeri 1,251,Jln. Kapten Kasihin HS no. 4
+152,SMA Negeri 2,251,Jln. Anjuk Ladang no. 9
+153,SMA Negeri 1,254,Jln. Pramuka no. 2
+154,SMA Negeri 2,254,Jln. Joko Tole no. 234
+155,SMA Negeri 3,254,Jln. Pintu Gerbang no. 37
+156,SMA Negeri 1,271,Jln. Soekarno-Hatta no. 40
+157,SMA MGR. Soegijapranata,271,Jln. Panglima Sudirman no. 64
+158,SMA Bakti,256,Jln. Batoro Katong no. 24
+159,SMA Negeri 1,256,Jln. Budi Utomo no. 1
+160,SMA Negeri 2,256,Jln. Pacar no. 24
+161,SMA Negeri 3,256,Jln. Laksamana Yos Sudarso
+162,SMA Negeri 1,272,Jln. Soekarno Hatta no. 137
+163,UPT SMA 1,218,Jln. Gajah Mada no. 5
+164,SMA Antartika,259,Jln. Siwalan Panji no. 6
+165,SMA Hang Tuah 2,259,Jln. KRI Ratulangi no. 1 Gedangan
+166,SMA Kristen Petra 4,259,Jln. Monginsidi no. 100
+167,SMA Muhammadiyah,259,Jln. Raya Kenongo Tulangan
+168,SMA Negeri 1,259,Jln. Jenggolo no. 1
+169,SMA Negeri 1 Waru,259,Jln. Brantas Barito Wisma Tropodo Waru 
+170,SMA Negeri 2,259,Jln. Lingkar Barat Gading Fajar no. 2
+171,SMA Negeri 3,259,Jln. Dr. Wahidin no. 130
+172,SMA Negeri 4,259,Jln. Raya Suko Perum Puri Kutuk Sidokare
+173,SMA Katolik Untung Suropati,259,Jln. Untung Suropati no. 33
+174,SMA Negeri 1,260,Jln. Panglima Sudirman 5-A
+175,SMA Negeri 1,261,Jln. Payudan Timur no. 1
+176,SMA 17 Agustus 1945,273,Jln. Semolowaru no. 45
+177,SMA Al Falah,273,Jln. Ketintang Madya no. 81
+178,SMA Al Hikmah,273,Jln. Kebonsari ELVEKA no. 5
+179,SMA Barunawati,273,Jln. Perak Barat no. 173
+180,SMA Budi Sejati,273,Jln. Jagir Wonokromo no. 112
+181,SMA Ciputra,273,Puri Widya Kencana Perum Citra
+182,SMA Dapena 1,273,Jln. Sumatera no. 112 - 114
+183,SMA Darma Wanita,273,Jln. Kendangsari V
+184,SMA Dr. Soetomo,273,Jln. Semolowaru no. 9
+185,SMA GIKI 1,273,Jln. Dukuh Kupang Utara I no. 2
+186,SMA GIKI 2,273,Jln. Raya Gubeng no. 45
+187,SMA Gracia,273,Jln. Gubeng Pojok no. 15
+188,SMA IPIEMS,273,Jln. Menur no. 125
+189,SMA Kalam Kudus,273,Jln. Raya Kupang Jaya no. 135 - 136
+190,SMA Kartika IV-3,273,Jln. Brawijaya no. 38
+191,SMA Kemala Bhayangkari,273,Jln. A. Yani no. 30 - 32
+192,SMA Khadijah,273,Jln. A. Yani no. 2 - 4
+193,SMA Kristen Cita Hati,273,Jln. Kejawan Putih Barat no. 28 - 30
+194,SMA Kristen Petra 1,273,Jln. Lingkar Dalam Barat Perum Graha Family
+195,SMA Kristen Petra 2,273,Jln. Manyar Tirtoasri Raya no. 1 - 3
+196,SMA Kristen Petra 3,273,Jln. Kalianyar no. 43
+197,SMA Kristen Petra 5,273,Jln. Jemur Andayani XVII no. 2
+198,SMA Muhammadiyah 3,273,Jln. Gadung III no. 7
+199,SMA Negeri 1,273,Jln. Wijaya Kusuma no. 48
+200,SMA Negeri 2,273,Jln. Wijaya Kusuma no. 48
+201,SMA Negeri 3,273,Jln. Memet Sastowiryo Komplek TNI-AL Kenjeran
+202,SMA Negeri 4,273,Jln. Mayjend Prof. Dr. Moestopo no. 4
+203,SMA Negeri 5,273,Jln. Kusuma Bangsa no. 21
+204,SMA Negeri 6,273,Jln. Gubernur Suryo no. 11
+205,SMA Negeri 7,273,Jln. Ngaglik no. 27 - 29
+206,SMA Negeri 8,273,Jln. Sultan Iskandar Muda no. 42
+207,SMA Negeri 9,273,Jln. Wijaya Kusuma no. 48
+208,SMA Negeri 11,273,Jln. Perumnas Tandes 1 Manukan Kulon
+209,SMA Negeri 12,273,Jln. Raya Sememi Benowo
+210,SMA Negeri 13,273,Jln. Lidah Kulon - Lakarsantri
+211,SMA Negeri 14,273,Jln. Tenggilis Mejoyo Perum YKP IV
+212,SMA Negeri 15,273,Jln. Dukuh Menanggal Selatan no. 103
+213,SMA Negeri 16,273,Jln. Raya Prapen
+214,SMA Negeri 17,273,Jln. Rungkut Asri Tengah Perum. YKP
+215,SMA Negeri 19,273,Jln. Kedung Cowek no. 390
+216,SMA Negeri 20,273,Jln. Raya Medokan Semampir no. 119
+217,SMA Negeri 21,273,Jln. Argopuro no. 11 - 15
+218,SMA Negeri 22,273,Jln. Balas Klumprik Kecamatan Wiyung
+219,SMA Pirngadi 1,273,Jln. Pirngadi no. 12 - 14
+220,SMA Sasana Bakti,273,Jln. Jagalan no. 132 - 136
+221,SMA Ta'miriyah,273,Jln. Indrapura no. 2
+222,SMA Trimurti,273,Jln. Gubernur Suryo no. 3
+223,SMA YPPI 1,273,Jln. Darmahusada Indah Barat VI no. 1
+224,SMA YPPI 2,273,Jln. Kapasari no. 126 - 128
+225,SMA Katolik Frateran,273,Jln. Kepanjen no. 8
+226,SMA Dharma Mulya,273,Jln. Dukuh Kupang Barat no. 32
+227,SMA Kristen Gloria,273,Jln. Raya Sukomanunggal Jaya no. 25-A
+228,SMA Katolik Karitas III,273,Jln. Simpang Darmo Permai Utara VII no. 11
+229,SMA Katolik Santa Agnes,273,Jln. Mendut no. 7
+230,SMA Katolik Santa Maria,273,Jln. Raya Darmo no. 49
+231,SMA Katolik Santo Carolus,273,Jln. Jemur Handayani XXI no. 7
+232,SMA Katolik Santo Stanislaus,273,Jln. Kalijudan no. 25 - 33
+233,SMA Katolik Santo Yusup,273,Jln. Kebraon I no. 6 Barat Karangpilang
+234,SMA Katolik Santo Hendrikus,273,Jln. Arief Rachman Hakim no. 40 - 44
+235,SMA Katolik St. Louis 1,273,Jln. Polisi Istimewa no. 7
+236,SMA Katolik St. Louis 2,273,Jln. Tidar no. 117 - 119
+237,SMA Katolik Stella Maris ,273,Jln. Indrapura no. 32
+238,SMA Negeri 1,262,Jln. Soekarno Hatta no. 13
+239,SMA Negeri 1,263,Jln. WR. Supratman no. 2
+240,SMA Negeri 2,263,Jln. Drs. Wahidin Sudiro Husodo no. 869
+241,SMA Negeri 1 Boyolangu,264,Jln. Kimangonsarkoro
+242,SMA Negeri 1 Kedungwaru,264,Jln. Dr. Wahidin Sudiro Husodo no. 12
+243,SMA Katolik Santo Thomas Aquino,264,Jln. Dr. Wahidin Sudiro Husodo no. 83 
+244,SMA Bina Utama,327,Jln. H.R. A. Rahman no. 65
+245,SMA Kristen Immanuel,327,Jln. Letjen Sutoyo
+246,SMA Kristen Kanaan,355,Jln. Kapten Pierre Tendean no. 50
+247,SMA Negeri 5,355,"Jln. Sultan Adam no. 85, RT. 20"
+248,SMA Negeri 7,355,"Jln. Darma Praja 5 no. 47, RT. 12"
+249,SMA Negeri 1,349,"Jln. Berangas , km. 4, no. 39-A"
+250,SMA Katolik Santo Petrus Kanisius,342,"Jln. Tjilik Riwut , km. 1"
+251,SMA Negeri 2,335,Jln. Pasanah no. 15
+252,SMA Negeri 1,363,Jln. Kapten Pierre Tendean RT. 30 no. 63
+253,SMA Negeri 2,363,Jln. Soekarno Hatta Strap Gunung Samarinda 
+254,SMA Negeri 3,363,Jln. Wolter Monginsidi no. 40 RT. 32
+255,SMA Negeri 5,363,Jln. Abdi Praja Blok F1 no. 119
+256,SMA Negeri 6,363,"Jln. Soekarno Hatta , km. 4,5"
+257,SMA Patra Dharma,363,Jln. Warukin III Panorama
+258,SMA YP Vidya Dahana Patra,364,Jln. Raya Badak no. 2 Komplek PT. Badak NGL
+259,SMA Kesatuan 1,365,Jln. Ruhut Rahayu I no. 27
+260,SMA Negeri 1,365,Jln. Bhayangkara no. 54
+261,SMA Negeri 2,365,Jln. Kemakmuran no. 27 Sei Pinang
+262,SMA Negeri 3,365,Jln. Ir. H. Juanda Air Putih no. 20
+263,SMA Negeri 10,365,Jln. HAM. Rivaddin no. 1 (eks . Jln. Pelita RT.25)
+264,SMA Negeri 1,370,Jln. Ki Hajar Dewantara no. 18
+265,SMA Negeri 2,370,Jln. Gunung Kerinci Kampung Enam
+266,SMA Immanuel,153,Jln. Dr. Susilo no. 6 Teluk Betung
+267,SMA Katolik Xaverius,153,Jln. Cendana no. 31 Rawa Laut Tanjung Karang Timur
+268,SMA Negeri 1 Raba,291,Jln. Soekarno. Hatta no. 29
+270,SMA Negeri 1,292,Jln. Pendidikan no. 21
+271,SMA Negeri 2,292,Jln. Panjitilar Negara no. 25
+272,SMA Negeri 3,292,Jln. Pemuda no. 63
+273,SMA Negeri 4,292,Jln. R.M. Panji Anom
+274,SMA Negeri 5,292,Jln. Udayana no. 2-A
+275,SMA Negeri 1,289,Jln. Garuda no. 1
+276,SMA Negeri 2,289,Jln. Garuda no. 102
+277,SMA Negeri 2 Selong,287,Jln. TG Ki Haji M. Zainuddin Abdul Madjid no. 1 Pancor-Selong
+278,SMA Negeri 1 Waingapu,311,Jln. Majapahit - Waingapu
+279,SMA Katolik Johanes XXIII,486,Jln. Kimaam no. 4
+280,SMA Dian Harapan,398,Jln. Gunung Agung  no. 201 Tanjung Bunga
+281,SMA Negeri 3,398,Jln. Baji Areng no. 18
+282,SMA Katolik Cendrawasih,398,Jln. Cendrawasih no. 61
+283,SMA Katolik Rajawali,398,Jln. Lamadukelleng no. 7
+284,SMA Katolik Santo Yoseph Luwuk,418,Jln. Bukit Tinggi no. 136
+285,SMA Negeri 1,430,Jln. Gatot Subroto no. 70
+286,SMA Negeri 2,430,Jln. Tanjung Dako no. 9
+287,SMA Negeri 1,429,Jln. Ahmad Yani no. 8
+288,Manado International School,444,"Parkville Estate, Parklane Kav. B1-4, Jln. Walanda Maramis"
+289,SMA Negeri 1,444,Jln. Pramuka no. 102
+290,SMA Negeri 2,444,Jln. Tololiu Supit - Tingkulu 
+291,SMA Negeri 7,444,Jln. Tololiu Supit - Tingkulu
+292,SMA Budi Utomo,444,Jln. 14 Februari Kelurahan Teling Atas 
+293,SMA Santo Ignatius,444,"Jln. Wolter Monginsidi, Kelurahan Malalayang 1 Barat"
+294,SMA Katolik Frater Don Bosco,444,Jln. WR. Supratman
+295,SMA Katolik Rex Mundi,444,Jln. Sam Ratulangi no. 60
+296,SMA Katolik Thomas Aquino,444,Jln. Santo Yosep no. 19a Kleak
+297,SMA Kristen Eben Haezer,444,"Jln. 14 Februari no. 95, Teling Atas Kecamatan Wanea"
+298,SMA Lokon Santo Nikolaus,445,Jln. Perlombaan no. 99 Kakaskasen
+299,SMA Katolik Xaverius,70,Jln. Dobi no. 15-A
+300,SMA Xaverius 1,138,Jln. Bangau no. 60
+301,SMA Kalam Kudus,53,Jln. Tane no. 14
+302,SMA Cendana,87,"Jln. Komplek Palem PT. Chevron Pacific Indonesia, Lembah Damai"
+303,SMA Kalam Kudus,87,Jln. Lokomotif no. 118
+304,SMA Kharisma Bangsa School,162,Jln. Terbang Layang no. 21 Pondok Cabe
+305,SMA Bina Bangsa Sejahtera,172,"Jln. Raya Kampus IPB Darmaga, km.7 Margajaya"
+307,SMA Negeri 5,165,"Jln. Raya Sumur Batu, Kecamatan Kemayoran"
+308,SMA Negeri 68,165,Jln. Salemba Raya no. 18
+309,SMA Negeri 18,168,Jln. Warakas 1 Tanjung Priok
+310,SMA Negeri 57,164,Jln. Raya Kedoya
+311,SMA Negeri 56,164,Jln. Kamal Raya Tegal Alur Kali Deres
+312,SMA Negeri 38,166,"Jln. Raya Lenteng Agung, Jagakarsa"
+313,SMA Negeri 42,167,Jln. Rajawali Halim Perdana Kusuma
+314,SMA Negeri 77,165,Jln. Cempaka Putih Tengah
+315,SMA Katolik Methodist 3,138,"Jln. Jend. A. Yani, Tembok Baru Kelurahan 9 no. 1"
+316,SMA Pribadi,187,Jln. Margonda Raya no. 229
+317,SMA Negeri 1,277,Jln. Ratna no. 1
+318,SMA Negeri Sragen BBS,220,Jln. Gemolong Asri no. 1 Gemolong
+319,SMA Semesta,228,"Jln. Raya Semarang-Gunungpati, km. 15"
+320,SMA Negeri 1,231,Jln. KHA. Wakhid Hasyim Bantul
+321,SMA Negeri 1 Ciparay,169,"Jln. Raya Pacet no. 188, Pakutandang, Ciparay"
+322,SMA Negeri 6,269,Jln. Mayjend Sungkono. 58
+323,SMA Negeri 1 Sukodadi,245,Jln. Pandu no. 32 Sukodadi
+325,SMK Cendika Bangsa Kepanjen,249,"Jln. Raya Mojosari no. 2 Kepanjen, Mojosari"
+326,SMK Negeri 1,243,Jln. Dr. Sutomo no. 15
+327,SMK Negeri Wonorejo,255,Jln. Pesantren Terpadu Al Yasini Kluwut Wonorejo
+328,SMK Negeri 1,246,"Jln. HOS. Cokroaminoto no. 161, Tompokersan"
+329,SMK Wijaya Putra,273,Jln. Raya Benowo no. 1 - 3
+330,SMK Darut Taqwa,255,Jln. PP Pesantren Ngalah no. 16 Pandean - Sengong Agung
+331,SMK Negeri 1,256,Jln. Jenderal Sudirman no. 10
+332,SMK Wahaba,255,Jln. Tongkol no. 32 B Dermo
+333,SMK Sooko,250,Jln. R. Akhmad Basuni no. 5
+334,SMK Negeri 4,273,Jln. Kranggan no. 81 - 101
+335,SMK Negeri 1,245,Jln. Jend. Sudirman no. 84
+336,SMK Shalahuddin,271,Jln. Dr. Wahidin Sudirohusodo no. 63
+337,SMK Negeri 2 Buduran,259,Jln. Jenggolo no. 2 A Siwalanpanji Buduran 
+338,SMK Telkom DU,243,Jln. Rejoso Peterongan
+339,SMK Negeri 2,273,Jln. Tentara Genie Pelajar no. 26
+340,SMK Negeri Pasirian,246,"Jln. Raya Condro Pasirian, Condro"
+341,SMK Negeri 1 Kraksaan,257,"Jln. Tenis no. 10, Kraksaan"
+342,SMK Negeri 1 Gempol,255,"Jln. Dau Darmorejo, Kepulungan"
+343,SMK Negeri 11,269,Jln. Pelabuhan Bakahuni no. 1
+344,SMK Negeri 1,251,Jln. Dr. Soetomo no. 61
+345,SMA Santa Laurensia,162,"Jln. Sutera Utama No.1 Alam Sutera,Serpong"
+346,SMA Negeri 1 Marabahan,345,Jln. Aes Nasution no. 66
+347,SMA Negeri 9 Binsus,444,Jln. H. Jusuf Hasiru Komp. Kampus Unsrat
+348,SMA Negeri 5,242,Jln. Semangka no. 4
+1352,SMA Negeri 5,170,Jln. Belitung no.8
+1353,MAN Insan Cendekia Gorontalo,372,Jl.Tapa - Suwawa Ds. Moutong Kec. Tilongkabila Kab. Bone Bolango Provinsi Gorontalo 96183
+1354,SMA Negeri 1 Sumenep,261,Jln. Payudan Timur No. 1
+1355,SMA Negeri 1 Genteng,237,Jln. K.H. Wachid Hasyim No. 20
+1357,SMA Negeri 1,383,"Jl. Pendidikan No. 50, Binamu Jeneponto, Sulawesi Selatan"
+1359,SMA Negeri 2,382,"Jln, Poros Makassar-Malino KM.62 Sulawesi"
+1360,SMA Santo Bernardus,226,Jl. Patriot No.14
+1361,SMA Negeri 1,277,"Jln. Ratna No 1 Gianyar, Bali"
+1362,SMA Negeri Titian Teras H.Abdurrahman Sayoeti,106,Jln. Lintas Jambi-Muara Bulian Km.21 Pijoan Kab. Muaro
+1363,SMA Kristen Gloria 2,273,Jln. Kalisari Selatan 1 No. 3 Pakuwon City
+1364,SMA Unggul Del,51,Jln. Arjuna Kecamatan Laboeh Putih Kabupaten Toba Samosir Sumatera Utara
+1365,SMA Negeri 1 Curup,120,"Jln. Basuki Rahmat No. 1, Curup, Bengkulu"
+1367,SMA Negeri M.H. Thamrin,167,"Jln. Bambu Wulung, Kel. Bambu Apus, Kec. Cipayung, Jakarta Timur"
+1368,SMA Negeri 1 Kebomas,241,Jl. Dr Wahidin Sudirohusodo Komplek Perumahan Alam Bukit Raya blok A6-08
+1369,SMA Xaverius 1,111,"Jln. Marsda Abdurahman Saleh No.19 The Hok, Jambi"
+1370,SMA Negeri 6,228,Jl. Ronggolawe No.4
+1373,SMA Negeri 2,270,Jln. Raya Ijen No. 09
+1374,SMA Negeri 3 Painan,64,"Komplek Islamic Centre Sago, Painan, Kabupaten Pesisir Selatan, Sumatera Barat"
+1375,SMA Negeri 1,254,Jln. Pramuka No.2
+1376,SMA Bina Bangsa Kebun Jeruk,164,Jln. Arjuna Selatan Kav. 87
+1377,MA Negeri 2 Madiun,268,"Jln. Sumber Karya 05, Madiun"
+1378,SMA IPH,273,"Jln. Raya Kedung Baruk 112-114, Surabaya"
+1379,SMA Negeri 1,238,"Jln. Kresna 29, Kademangan"
+1380,SMA Negeri 1 Tabanan,281,Jln. gunung agung no.122
+1381,SMA Darul Ulum 2 Unggulan BPPT CIS ID 113,243,"Pondok Pesantren Darul 'Ulum, Rejoso - Peterongan, Jombang, Indonesia"
+1382,SMA Negeri 2 Kota Serang,160,"Jalan Raya Pandeglang Km. 5, Serang"
+1383,SMA Methodist 3,51,Jl. Perintis Kemerdekaan no. 37
+1384,SMK PGRI 3 ,269,Jl Raya Tlogomas IX / 29
+1385,SMK Negeri 4,376,Jln. Madura
+1386,SMA Lab School UNSYIAH,19,Jln. Kuta Inong Balee No.2
+1387,SMA Kristen Penabur Gading Serpong,158,"Jl. Raya Kelapa Gading Barat, Gading Serpong, Tangerang"
+1390,SMK Telkom Sandhy Putra,269,"Jl. Danau Ranau Sawojajar, Kec. Kedungkandang"
+1391,SMA Cinta Kasih Tzu Chi,164,"Jl. Kamal Raya No.20 Outer Ring Road, Cengkareng Timur"
+1393,SMA Negeri 1 Ponorogo,256,"JL. Budi Utomo 1 Ponorogo, Siman, Ponorogo, 63471, Indonesia"
+1394,SMA Negeri 1,176,"JL. Merdeka, No. 91, Tarogong Kidul, 44151"
+1395,SMA Negeri 4,187,Jl. Gardujati 20
+1398,SMA Negeri 1 Grogol,244,Jl. Raya Gringging No. 16
+1399,SMA Assalam,221,Pabelan-Kartasura-Sukoharjo
+1400,SMA Negeri 1 Krangkeng,177,Jln. Raya Krangkeng no. 1
+1401,SMA Negeri 61,167,"Jln. Taruna Pahlawan Revolusi, Duren Sawit"
+1402,SMA Negeri 4,269,Jln. Tugu Utara no 1
+1403,MAN 3,269,Jl. Bandung No. 7
+1404,SMA Al Irsyad,197,"Jl. Prof Dr suharso 53113, Purwokerto"
+1405,SMKN 1 POGALAN,262,"Jl. Tulungagung no. 3 Trenggalek
+66371"
+1406,SMA Negeri 1,461,"Jl. Raya Pattimura, No. 28
+97114"
+1407,SMA Negeri 2,267,"Jl. Veteran No. 7
+64114"
+1408,SMA MUHAMMADIYAH 2,273,Jl. Pucang Anom No. 91
+1409,SMA Negeri 1,355,"Jl. Mulawarman, Banjarmasin Tengah 70115"
+1410,SMA Katolik Don Bosco ,355,"Jl. Rantauan Darat No. 24, RT. 20"
+1411,SMA NEGERI PLUS PROVINSI RIAU,87,Jl. Lingkar Kubang Raya
+1412,SMA Sinar Dharma,164,Jl. K.H. Moh. Mansyur No. 29 Kel. Krendang Kec. Tambora
+1413,SMA Negeri 1,236,Jl. Pemuda Kaffa 10
+1414,SMAN 1 Gegesik,175,"Jl. Nakula Sadewa, Desa Gegesik Kidul, Gegesik"
+1415,SMAN 1 SIBOLGA,54,Jl. S. Siswomiharjo No.1 Sibolga
+1416,SMA SAMPOERNA,172,"Jl. Raya Sukabumi KM.17 Caringin, Bogor, Jawa Barat 16730"
+1417,SMAN 1 KEPANJEN,249,Jln. Jendral ahmad yani no. 48
+1418,SMAN 1 KEBUMEN,207,Jl. Mayjen Sutoyo No. 7
+1419,SMA Negeri 1 Pontianak,327,"Jl Kalimantan, Pontianak"
+1420,SMA Global Islamic Boarding School,345,"Jl Trans Kalimantan Km.12, Sungai Lumbah, Alalak"
+1421,SMK Pawiyatan,273,Jl Tangkis Turi 4-6
+1422,SMA Negeri Ambulu,242,"Jl Candradimuka No. 42, Ambulu, Jember"
+1423,SMA Unggul Del,48,"Jl Y.P Arjuna, Sitoluama, Laguboti"
+1424,SMA Swasta Wage Rudolf Supratman 2,51,Jl Brigjend Zein Hamid No 33 Medan
+1425,SMA Swasta Sutomo 2,51,Jl Deli Indah IV No 6 Medan
+1426,SMA Negeri 2 Purwokerto,197,"Jl jenderal Gatot Subroto No 69, Sokonegara,Purwokerto"
+1428,SMA Lazuardi GIS,193,"Jl. Lkr. Kampus, Rangkapan Jaya Baru, Pancoran MAS"
+1429,SMAN 1 Kendari,417,Jl. Mayjen. Sutoyo No.102
+1430,SMKN 1 Wonosobo,224,Jl. Bhayangkara no. 12
+1431,SMAN 1 Jatirogo,263,"Jalan Raya Bader No. 20, Jatirogo"
+1432,SMA Negeri 1 Boyolali,200,Jl. Kates no. 8 Kecamatan Boyolali
+1433,SMAN 1 Bangkalan,236,Jl Pemuda kaffa 10 bangkalan
+1434,SMA Negeri 17 Palembang,138,"Jl. Mayor Zurbi Bustan, Lebong Siarang Kel. Sukajaya. Kec. Sukarami"
+1435,SMAN Khusus Jeneponto,383,Jl.Kesehatan No.101
+1436,MAN 3 Kediri,267,"Jln. Letjend Suprapto No.58, Burengan, Pesantren"
+1437,SMAN 1 Bukittinggi,69,"Jl. Syekh M. Djamil Djambek No.36, Pakan Kurai, Guguk Panjang"
+1438,SMA Negeri 1 Kuta Selatan,274,"Jl. Ketut Jetung, kutuh"
+1439,SMA Kristen Palopo,399,Jl. Andi Simpurusiang
+1440,SMAN 2 Bekasi,189,"Jl. Tangkuban Perahu No. 1 Bekasi, Jawa Barat"
+1441,SMKN 2 Tamiang Layang,330,"Jl. Nansarunai, Tamiang Layang, Dusun Timur, Tamiang Layang, Dusun Tim"
+1442,MAN Insan Cendekia Paser,361,Jl. Negara Km. 08 Desa Sempulang Tanah Grogot Kab. Paser Kaltim 76211
+1443,SMA Negeri 1 Kencong,242,Jln. Kartini 8 Wonorejo Kencong
+1444,SMART Ekselensia Indonesia,172,"Jl Raya Parung - Bogor KM 42 Desa Jampang, Kec. Kemang"
+1445,SMA Swasta Sutomo 1,51,Jl. Letkol Martinus Lubis No. 7
+1446,MAN DEMAK,203,Alamat : Jl Diponegoro no.27 Jogoloyo
+1447,SMA Katolik Santo Petrus,327,Jl. Karel Sasuit Tubun No. 3
+1448,SMK Telkom Sandhy Putra Purwokerto,197,Jl. DI Panjaitan No. 128 Kecamatan Purwokerto Selatan
+1449,SMAN Modal Bangsa,3,"Jl. Bandara Sultan Iskandar Muda Km. 12,5 Desa Meulayo Kecamatan Blang Bintang"
+1450,SMK Widya Dharma Turen,249,Jl. Dharmawangsa Talok-Turen
+1451,SMA Plus Negeri 2 Banyuasin III,123,Jl. Sulaiman kelurahan Kedondong Raye kecamatan Banyuasin III
+1452,SMK Dharma Bahari Surabaya,273,"Jl. Sikatan Lebar XVI No. 1-5, Manukan Wetan, Tandes"
+1453,SMA Merlion School,273,Jl. HR Muhammad no. 371
+1454,SMK Negeri 3 Manado,444,"Jalan TNI Raya No. 4, Tikala Ares, Tikala, Kota Manado"
+1455,SMA Negeri 1 Puri,250,"Jl. Jayanegara No. 2, Banjaragung, Puri"
+1456,SMA Negeri 6 Depok,193,"Jl. Raya Limo No. 30, Limo, Kota Depok"
+1457,SMAN 1 Sumatera Barat,71,"Jln. Syekh Ibrahim Musa RT 009, Sigando, Padang Panjang Timur"
+1458,SMAN 1 Sumatera Barat,71,"Jl. Solok Batuang, Sigando, Padang Panjang Timur, Sigando, Padang Panjang"
+1459,MAN Parungpanjang Bogor,172,"Jl. Raya Cibunar No. 3, RT 04 / RW 03, Cibunar, Parung Panjang"
+1460,SMA Islam Athirah Bone,379,"Jl. Sungai Musi, Panyula, Tanete Riattang"
+1461,SMA Negeri 1 Krian,259,"Jl. Gubernur Soenandar Prijosoedarmo No. 5, Kraton, Krian, Kraton, Sidoarjo"
+1462,SMA Progresif Bumi Shalawat,259,"Jl. Kyai Dasuki No.1, Lebo, Kec. Sidoarjo"
+1463,SMAN 1 Depok,193,"Jl. Nusantara Raya No.317, Depok Jaya, Pancoran MAS, Kota Depok"
+1465,SMA Cahaya Rancamaya Islamic Boarding School,172,Jl. Rancamaya no. 30
+1466,SMA Cahaya Rancamaya Islamic Boarding School,190,Jl. Rancamaya no. 30
+1467,SMK Bahrul Ulum,273,Putat Jaya Sekolahan 70-72
+1468,SMA Xin Zhong,273,Jl. Kalisari Selatan No. 5
+1469,SMK Negeri 1 Cilegon,159,"Jl. Kedung Baya No.21, Kalitimbang, Kecamatan Cibeber"
+1470,SMA Negeri 1 Pangkalpinang,101,Jln. Usman Ambon
+1471,SMA Negeri 1 Terbanggi Besar,142,"Jalan Ahmad Yani No.1, Poncowati, Terbanggi Besar,"
+1472,Sekolah Lentera Harapan Gunung Agung,151,Jalan Poros gang 3
+1473,SMA Negeri 6,365,Jalan Trikora
+1474,SMK Negeri 2 Depok,234,"Mrican, Caturtunggal, Depok"
+1475,SMA Insan Cendekia Mandiri,259,"Jl. Sarirogo No.1, Sari Rogo"
+1476,SMK Katolik St. Louis,273,Jl. Tidar 117
+1477,SMA Negeri 13 Pangkep,388,Desa kassiloe
+1478,SMA Ar Rohmah dau,249,Jl. Raya apel 61 sumbersekar-dau
+1479,SMAK Yos Sudarso Batam,93,"Jl. Dang Merdu No.2, Tlk. Tering, Batam Kota"
+1480,Madrasah Aliyah Negeri Insan Cendekia Benteng,114,Desa Renah lebar Kec. Karang tinggi
+1481,SMAK 5 Penabur Jakarta,168,Jln. Kelapa Hibrida Raya Blok QA3 Kelapa Gading
+1482,SMAN 1 Sukawati,277,Jl. Lettu. W. Sutha
+1483,SMAK 5 Penabur Jakarta,168,"Jalan Kelapa Hibrida Raya Blok QA3, Pegangsaan Dua, RT.12/RW.11"
+1484,MAN Insan Cendekia Serpong,161,"BSD City Sektor XI, Jalan Cendekia, Ciater, Serpong"
+1485,"MAN Insan Cendekia Serpong, BSD City Sektor XI",162,"Jln Cendekia, Ciater, Serpong, Ciater, Kec. Serpong"
+1487,Little Sun School,273,Manyar Kartika 48
+1488,SMAK Penabur Harapan Indah,171,"Jl. Harapan Indah Boulevard No. Kav 21,Kec. Medan"
+1489,SMA Plus Ar-Rahmat,239,Jl.Untung Suropati No.48
+1490,SMA Negeri 1 Kertosono,251,"Jl.P.Sudirman No.10, Kertosono"
+1491,SMKS Informatika Serang,160,Jl.KH.Amin Jasuta No.15C Kaloran Brimob
+1492,SMA JAC Surabaya,273,"Jl. Puncak Permai Utara III No. 9-11,Tubanan"
+1493,SMA Kristen Cita Hati West,273,Jl. Bukit Golf L2 No. 1
+1494,SMA Negeri 3 Batam,93,"Jl. Hang Nadim No. 3, Belian, Batam Kota"
+1495,MAN 5 Bogor,172,"Cibunar, Kec. Parung Panjang, Bogor"
+1496,SMAN 1 Manyar,241,Jalan Kayu pongangan Indah Manyar
+1497,SMAN 2 Tangerang Selatan,162,"Puspiptek, Jl. Raya Serpong, Muncul, Kec. Setu, Kota Tangerang Selatan, Banten 15314"
+1498,SMKN 12 Kabupaten Tangerang,158,"Babakan, Kec. Legok, Tangerang, Banten 15820"
+1499,SMA Surabaya Cambridge School,273,"Perumahan Alam Galaxy Mall 
+Jalan Alam Sambi Tirta Barat III Blok C3B-1 No 2, Sambikerep, Kec. Sambikerep, Kota Surabaya, Jawa Timur 60217"
+1500,SMAK IPEKA Puri,164,"Jl. Puri Indah Raya Blok 1, RT. 3/ RW.6, Kembangan Sel, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610"
+1501,SMA Bina Mulia,327,Jalan Abdul Rachman Saleh Nomor A1
+1502,SMA Budi Utama,234,"Jln. Wijaya Kusuma 122, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta"
+1503,MA Swasta Unggulan Darul Mursyid,45,"Sidapdap - Simanosor Julu, Kabupaten Tapanuli Selatan Provinsi Sumatera Utara"
+1504,SMA Insan Cendekia Mandiri Boarding School,259,"Jln. Sarirogo no 1 Sidoarjo, Jawa Timur"
+1505,MA Negeri 3 Jombang,243,Jln. Merpati Tambakberas Tambakrejo
+1506,SMKN 1 Surabaya,273,"Jln. Smea No.4, Wonokromo, Kec. Wonokromo, Kota Surabaya, Jawa Timur"
+1507,SMA Pradita Dirgantara,200,"Komplek Bandara Adi Soemarmo Solo
+Jl. Cendrawasih no 4, Tanjungsari, Ngesrep, Kec. Ngemplak"
+1508,SMA Ar Rohmah Putri Islamic Boarding School,249,"Jln. Jambu No. 1, Semanding, Sumbersekar, Kec. Dau, Malang, Jawa Timur 65151"
+1509,SMA Teuku Nyak Arif Fatih Bilingual School,19,"Jl. Teuku Nyak Arief No.1, Lamnyong, Kec. Syiah Kuala"
+1510,MAN 1 Jembrana,278,"Jln. Ngurah Rai No. 103, Dauhwaru, Kec. Jembrana, Kabupaten Jembrana, Bali 82217"
+1511,MBI Amanatul Ummah,270,"Jln. Tirtowening No. 2 Kembang, Belor, Kembangbelor, Kec. Pacet, Mojokerto, Jawa Timur 61374"
+1512,SMA ITP Surabaya,273,"Dukuh Menanggal XII-12, Surabaya."

@@ -1,0 +1,5 @@
+id,nama,status,tgl_daftar,bukti_transfer,nominal,competition_id,teacher_id,user_id,login_token
+1,Tim Pemain,ready,2020-11-01,-,0,9,242,5,d789526ffc9620416683171875d4c57c
+2,Akatsuki,ready,2020-11-07,asset/uploads/transfer/ef7f7584811c14e38ec93ea6ec6ce199.jpg,0,9,299,6,ebaca3b568eb93afc1e3bbf13049b2b5
+3,Konoha,ready,2020-11-13,asset/uploads/transfer/df3bb9ebf9c6985e6257dde9d86370e8.jpg,0,9,299,7,e5b9b189b0e92461b6dce71b318eb8ea
+4,Jinchuriki,ready,2020-11-14,asset/uploads/transfer/f8c906ce1e5edfcbee0c6b01633544c0.jpg,0,9,86,8,0796089f0e7a67528d124a349e8c3162

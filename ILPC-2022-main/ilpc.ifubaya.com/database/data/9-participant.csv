@@ -1,0 +1,14 @@
+id,nama,nis,kartu_pelajar,kelas,telp_peserta,email,alamat,status,ukuran_baju,alergi,vegetarian,team_id
+1,Theo,5171,asset/uploads/kartu/227f163f50a81ab127281022f3742342.jpg,XII,87780781779,theophil730730@gmail.com,-,ketua,REGULAR,-,TIDAK,1
+2,Ivan,5171,asset/uploads/kartu/335f82da897922ebbb08a5932bf4c171.jpg,XI,812345678,ivan@gmail.com,-,anggota_1,REGULAR,-,TIDAK,1
+3,Arifin,5171,asset/uploads/kartu/3b7628424c878560fc943d765cf21adc.jpg,XI,812345678,arifin@gmail.com,-,anggota_2,REGULAR,-,TIDAK,1
+4,Jasti,5171,asset/uploads/kartu/8e60c0bc28d1800fab6d8b0a160e3af0.jpg,XII,81987654321,jasti@gmail.com,-,cadangan,REGULAR,-,TIDAK,1
+5,Pein,5171,asset/uploads/kartu/c9a88742db630800a2290caf266a0c82.jpg,XII,81217317102,michaelu670@gmail.com,-,ketua,REGULAR,-,TIDAK,2
+6,Konan,5171,asset/uploads/kartu/e1630cad41f88a8e72949cb8d8cf49c2.jpg,XII,89665172415,riojonathan0@gmail.com,-,anggota_1,REGULAR,-,TIDAK,2
+7,Tobi,5171,asset/uploads/kartu/f88b74aa75f768032415682969f8e17a.jpg,XII,81357979298,bryannoelsalindeho23@gmail.com,-,anggota_2,REGULAR,-,TIDAK,2
+8,Naruto,5171,asset/uploads/kartu/46d475c4d2e358987021371dd2da322b.jpg,X,89505081178,goodwilllion28@gmail.com,-,ketua,REGULAR,-,TIDAK,3
+9,Sasuke,5171,asset/uploads/kartu/d403a2bb7b172ad7dc8eb43d8731b5c0.jpg,XI,85107999985,ebmemaga@gmail.com,-,anggota_1,REGULAR,-,TIDAK,3
+10,Sakura,5171,asset/uploads/kartu/dda9a9f55c1ae9fbb9aec463a59a8cbf.jpg,XII,81336195878,alexanderjason526@gmail.com,-,anggota_2,REGULAR,-,TIDAK,3
+11,Kyuubi,5171,asset/uploads/kartu/35423243cbccc49b55d27033578fad6e.png,XII,81335741329,azharanas173@gmail.com,-,ketua,REGULAR,-,TIDAK,4
+12,Hachibi,5171,asset/uploads/kartu/18ca5f9d4aed32665a0be7a2f437a550.png,XII,83832503623,marabingaputra@gmail.com,-,anggota_1,REGULAR,-,TIDAK,4
+13,Juubi,5171,asset/uploads/kartu/479eae7c4f75e15de2cb13c6da99b33e.png,XII,82234202020,ishamsyahrul@gmail.com,-,anggota_2,REGULAR,-,TIDAK,4

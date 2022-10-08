@@ -1,0 +1,516 @@
+id,nama,province_id
+1,Aceh Barat,1
+2,Aceh Barat Daya,1
+3,Aceh Besar,1
+4,Aceh Jaya,1
+5,Aceh Selatan,1
+6,Aceh Singkil,1
+7,Aceh Tamiang,1
+8,Aceh Tengah,1
+9,Aceh Tenggara,1
+10,Aceh Timur,1
+11,Aceh Utara,1
+12,Bener Meriah,1
+13,Bireuen,1
+14,Gayo Luwes,1
+15,Nagan Raya,1
+16,Pidie,1
+17,Pidie Jaya,1
+18,Simeulue,1
+19,Banda Aceh,1
+20,Langsa,1
+21,Lhokseumawe,1
+22,Sabang,1
+23,Subulussalam,1
+24,Asahan,2
+25,Batubara,2
+26,Dairi,2
+27,Deli Serdang,2
+28,Humbang Hasundutan,2
+29,Karo,2
+30,Labuhan Batu,2
+31,Labuhanbatu Selatan,2
+32,Labuhanbatu Utara,2
+33,Langkat,2
+34,Mandailing Natal,2
+35,Nias,2
+36,Nias Barat,2
+37,Nias Selatan,2
+38,Nias Utara,2
+39,Padang Lawas,2
+40,Padang Lawas Utara,2
+41,Pakpak Barat,2
+42,Samosir,2
+43,Serdang Bedagai,2
+44,Simalungun,2
+45,Tapanuli Selatan,2
+46,Tapanuli Tengah,2
+47,Tapanuli Utara,2
+48,Toba Samosir,2
+49,Binjai,2
+50,Gunung Sitoli,2
+51,Medan,2
+52,Padangsidempuan,2
+53,Pematang Siantar,2
+54,Sibolga,2
+55,Tanjung Balai,2
+56,Tebing Tinggi,2
+57,Agam,3
+58,Dharmas Raya,3
+59,Kepulauan Mentawai,3
+60,Lima Puluh Kota,3
+61,Padang Pariaman,3
+62,Pasaman,3
+63,Pasaman Barat,3
+64,Pesisir Selatan,3
+65,Sijunjung,3
+66,Solok,3
+67,Solok Selatan,3
+68,Tanah Datar,3
+69,Bukittinggi,3
+70,Padang,3
+71,Padang Panjang,3
+72,Pariaman,3
+73,Payakumbuh,3
+74,Sawah Lunto,3
+75,Solok,3
+76,Bengkalis,4
+77,Indragiri Hilir,4
+78,Indragiri Hulu,4
+79,Kampar,4
+80,Kuantan Singingi,4
+81,Meranti,4
+82,Pelalawan,4
+83,Rokan Hilir,4
+84,Rokan Hulu,4
+85,Siak,4
+86,Dumai,4
+87,Pekanbaru,4
+88,Bintan,5
+89,Karimun,5
+90,Kepulauan Anambas,5
+91,Lingga,5
+92,Natuna,5
+93,Batam,5
+94,Tanjung Pinang,5
+95,Bangka,6
+96,Bangka Barat,6
+97,Bangka Selatan,6
+98,Bangka Tengah,6
+99,Belitung,6
+100,Belitung Timur,6
+101,Pangkal Pinang,6
+102,Kerinci,7
+103,Merangin,7
+104,Sarolangun,7
+105,Batang Hari,7
+106,Muaro Jambi,7
+107,Tanjung Jabung Timur,7
+108,Tanjung Jabung Barat,7
+109,Tebo,7
+110,Bungo,7
+111,Jambi,7
+112,Sungai Penuh,7
+113,Bengkulu Selatan,8
+114,Bengkulu Tengah,8
+115,Bengkulu Utara,8
+116,Kaur,8
+117,Kepahiang,8
+118,Lebong,8
+119,Mukomuko,8
+120,Rejang Lebong,8
+121,Seluma,8
+122,Bengkulu,8
+123,Banyuasin,9
+124,Empat Lawang,9
+125,Lahat,9
+126,Muara Enim,9
+127,Musi Banyu Asin,9
+128,Musi Rawas,9
+129,Musi Rawas Utara,9
+130,Ogan Ilir,9
+131,Ogan Komering Ilir,9
+132,Ogan Komering Ulu,9
+133,Ogan Komering Ulu Se,9
+134,Ogan Komering Ulu Ti,9
+135,Pemukal Abab Lematang Ilir,9
+136,Lubuklinggau,9
+137,Pagar Alam,9
+138,Palembang,9
+139,Prabumulih,9
+140,Lampung Barat,10
+141,Lampung Selatan,10
+142,Lampung Tengah,10
+143,Lampung Timur,10
+144,Lampung Utara,10
+145,Mesuji,10
+146,Pesawaran,10
+147,Pesisir Barat,10
+148,Pringsewu,10
+149,Tanggamus,10
+150,Tulang Bawang,10
+151,Tulang Bawang Barat,10
+152,Way Kanan,10
+153,Bandar Lampung,10
+154,Metro,10
+155,Lebak,11
+156,Pandeglang,11
+157,Serang,11
+158,Tangerang,11
+159,Cilegon,11
+160,Serang,11
+161,Tangerang,11
+162,Tangerang Selatan,11
+163,Administrasi Kepulauan Seribu,12
+164,Jakarta Barat,12
+165,Jakarta Pusat,12
+166,Jakarta Selatan,12
+167,Jakarta Timur,12
+168,Jakarta Utara,12
+169,Bandung,13
+170,Bandung Barat,13
+171,Bekasi,13
+172,Bogor,13
+173,Ciamis,13
+174,Cianjur,13
+175,Cirebon,13
+176,Garut,13
+177,Indramayu,13
+178,Karawang,13
+179,Kuningan,13
+180,Majalengka,13
+181,Pangandaran,13
+182,Purwakarta,13
+183,Subang,13
+184,Sukabumi,13
+185,Sumedang,13
+186,Tasikmalaya,13
+187,Bandung,13
+188,Banjar,13
+189,Bekasi,13
+190,Bogor,13
+191,Cimahi,13
+192,Cirebon,13
+193,Depok,13
+194,Sukabumi,13
+195,Tasikmalaya,13
+196,Banjarnegara,14
+197,Banyumas,14
+198,Batang,14
+199,Blora,14
+200,Boyolali,14
+201,Brebes,14
+202,Cilacap,14
+203,Demak,14
+204,Grobogan,14
+205,Jepara,14
+206,Karanganyar,14
+207,Kebumen,14
+208,Kendal,14
+209,Klaten,14
+210,Tegal,14
+211,Kudus,14
+212,Magelang,14
+213,Pati,14
+214,Pekalongan,14
+215,Pemalang,14
+216,Purbalingga,14
+217,Purworejo,14
+218,Rembang,14
+219,Semarang,14
+220,Sragen,14
+221,Sukoharjo,14
+222,Temanggung,14
+223,Wonogiri,14
+224,Wonosobo,14
+225,Magelang,14
+226,Pekalongan,14
+227,Salatiga,14
+228,Semarang,14
+229,Surakarta,14
+230,Tegal,14
+231,Bantul,15
+232,Gunung Kidul,15
+233,Kulon Progo,15
+234,Sleman,15
+235,Yogyakarta,15
+236,Bangkalan,16
+237,Banyuwangi,16
+238,Blitar,16
+239,Bojonegoro,16
+240,Bondowoso,16
+241,Gresik,16
+242,Jember,16
+243,Jombang,16
+244,Kediri,16
+245,Lamongan,16
+246,Lumajang,16
+247,Madiun,16
+248,Magetan,16
+249,Malang,16
+250,Mojokerto,16
+251,Nganjuk,16
+252,Ngawi,16
+253,Pacitan,16
+254,Pamekasan,16
+255,Pasuruan,16
+256,Ponorogo,16
+257,Probolinggo,16
+258,Sampang,16
+259,Sidoarjo,16
+260,Situbondo,16
+261,Sumenep,16
+262,Trenggalek,16
+263,Tuban,16
+264,Tulungagung,16
+265,Batu,16
+266,Blitar,16
+267,Kediri,16
+268,Madiun,16
+269,Malang,16
+270,Mojokerto,16
+271,Pasuruan,16
+272,Probolinggo,16
+273,Surabaya,16
+274,Badung,17
+275,Bangli,17
+276,Buleleng,17
+277,Gianyar,17
+278,Jembrana,17
+279,Karang Asem,17
+280,Klungkung,17
+281,Tabanan,17
+282,Denpasar,17
+283,Bima,18
+284,Dompu,18
+285,Lombok Barat,18
+286,Lombok Tengah,18
+287,Lombok Timur,18
+288,Lombok Utara,18
+289,Sumbawa,18
+290,Sumbawa Barat,18
+291,Bima,18
+292,Mataram,18
+293,Alor,19
+294,Belu,19
+295,Ende,19
+296,Flores Timur,19
+297,Kupang,19
+298,Lembata,19
+299,Malaka,19
+300,Manggarai,19
+301,Manggarai Barat,19
+302,Manggarai Timur,19
+303,Nagekeo,19
+304,Ngada,19
+305,Rote Ndao,19
+306,Sabu Raijua,19
+307,Sikka,19
+308,Sumba Barat,19
+309,Sumba Barat Daya,19
+310,Sumba Tengah,19
+311,Sumba Timur,19
+312,Timor Tengah Selatan,19
+313,Timor Tengah Utara,19
+314,Kupang,19
+315,Bengkayang,20
+316,Kapuas Hulu,20
+317,Kayong Utara,20
+318,Ketapang,20
+319,Kubu Raya,20
+320,Landak,20
+321,Melawi,20
+322,Mempawah,20
+323,Sambas,20
+324,Sanggau,20
+325,Sekadau,20
+326,Sintang,20
+327,Pontianak,20
+328,Singkawang,20
+329,Barito Selatan,21
+330,Barito Timur,21
+331,Barito Utara,21
+332,Gunung Mas,21
+333,Kapuas,21
+334,Katingan,21
+335,Kotawaringin Barat,21
+336,Kotawaringin Timur,21
+337,Lamandau,21
+338,Murung Raya,21
+339,Pulang Pisau,21
+340,Seruyan,21
+341,Sukamara,21
+342,Palangkaraya,21
+343,Balangan,22
+344,Banjar,22
+345,Barito Kuala,22
+346,Hulu Sungai Selatan,22
+347,Hulu Sungai Tengah,22
+348,Hulu Sungai Utara,22
+349,Baru,22
+350,Tabalong,22
+351,Tanah Bumbu,22
+352,Tanah Laut,22
+353,Tapin,22
+354,Banjar Baru,22
+355,Banjarmasin,22
+356,Berau,23
+357,Kutai Barat,23
+358,Kutai Kartanegara,23
+359,Kutai Timur,23
+360,Mahaka,23
+361,Paser,23
+362,Penajam Paser Utara,23
+363,Balikpapan,23
+364,Bontang,23
+365,Samarinda,23
+366,Bulungan,24
+367,Malinau,24
+368,Nunukan,24
+369,Tana Tidung,24
+370,Tarakan,24
+371,Boalemo,25
+372,Bone Bolango,25
+373,Gorontalo,25
+374,Gorontalo Utara,25
+375,Pohuwato,25
+376,Gorontalo,25
+377,Bantaeng,26
+378,Barru,26
+379,Bone,26
+380,Bulukumba,26
+381,Enrekang,26
+382,Gowa,26
+383,Jeneponto,26
+384,Luwu,26
+385,Luwu Timur,26
+386,Luwu Utara,26
+387,Maros,26
+388,Pangkajene Kepulauan,26
+389,Pinrang,26
+390,Kepulauan Selayar,26
+391,Sidenreng Rappang,26
+392,Sinjai,26
+393,Soppeng,26
+394,Takalar,26
+395,Tana Toraja,26
+396,Toraja Utara,26
+397,Wajo,26
+398,Makassar,26
+399,Palopo,26
+400,Pare-pare,26
+401,Bombana,27
+402,Buton,27
+403,Buton Selatan,27
+404,Buton Tengah,27
+405,Buton Utara,27
+406,Kolaka,27
+407,Kolaka Timur,27
+408,Kolaka Utara,27
+409,Konawe,27
+410,Konawe Kepulauan,27
+411,Konawe Selatan,27
+412,Konawe Utara,27
+413,Muna,27
+414,Muna Barat,27
+415,Wakatobi,27
+416,Bau-bau,27
+417,Kendari,27
+418,Banggai,28
+419,Banggai Kepulauan,28
+420,Banggai Laut,28
+421,Buol,28
+422,Donggala,28
+423,Morowali,28
+424,Morowali Utara,28
+425,Parigi Moutong,28
+426,Poso,28
+427,Sigi,28
+428,Tojo Una-Una,28
+429,Toli Toli,28
+430,Palu,28
+431,Bolaang Mangondow,29
+432,Bolaang Mangondow Se,29
+433,Bolaang Mangondow Ti,29
+434,Bolaang Mangondow Ut,29
+435,Kepulauan Sangihe,29
+436,Kepulauan Siau Tagul,29
+437,Kepulauan Talaud,29
+438,Minahasa,29
+439,Minahasa Selatan,29
+440,Minahasa Tenggara,29
+441,Minahasa Utara,29
+442,Bitung,29
+443,Kotamobagu,29
+444,Manado,29
+445,Tomohon,29
+446,Majene,30
+447,Mamasa,30
+448,Mamuju,30
+449,Mamuju Tengah,30
+450,Mamuju Utara,30
+451,Polewali Mandar,30
+452,Buru,31
+453,Buru Selatan,31
+454,Kepulauan Aru,31
+455,Maluku Barat Daya,31
+456,Maluku Tengah,31
+457,Maluku Tenggara,31
+458,Maluku Tenggara Bara,31
+459,Seram Bagian Barat,31
+460,Seram Bagian Timur,31
+461,Ambon,31
+462,Tual,31
+463,Halmahera Barat,32
+464,Halmahera Selatan,32
+465,Halmahera Tengah,32
+466,Halmahera Timur,32
+467,Halmahera Utara,32
+468,Kepulauan Sula,32
+469,Pulau Morotai,32
+470,Ternate,32
+471,Pulau Taliabu,32
+472,Tidore Kepulauan,32
+473,Fakfak,33
+474,Kaimana,33
+475,Manokwari,33
+476,Maybrat,33
+477,Monokwari Selatan,33
+478,Pegunungan Arfak,33
+479,Raja Ampat,33
+480,Sorong,33
+481,Sorong Selatan,33
+482,Tambrauw,33
+483,Teluk Bintuni,33
+484,Teluk Wondama,33
+485,Sorong,33
+486,Merauke,34
+487,Jayawijaya,34
+488,Nabire,34
+489,Kepulauan Yapen,34
+490,Biak Numfor,34
+491,Paniai,34
+492,Puncak Jaya,34
+493,Mimika,34
+494,Boven Digoel,34
+495,Mappi,34
+496,Asmat,34
+497,Yahukimo,34
+498,Pegunungan Bintang,34
+499,Tolikara,34
+500,Sarmi,34
+501,Keerom,34
+502,Waropen,34
+503,Jayapura,34
+504,Deiyai,34
+505,Dogiyai,34
+506,Intan Jaya,34
+507,Lanny Jaya,34
+508,Mamberamo Raya,34
+509,Mamberamo Tengah,34
+510,Nduga,34
+511,Puncak,34
+512,Supiori,34
+513,Yalimo,34
+514,Jayapura,34
+515,Toba Samosir,2

@@ -1,0 +1,14 @@
+[v] anda tim id berapa itu hrusnya da di dsahboard
+[v] robot vs pemain, perlu di tes
+[v] kalo weapon 0 durabnya, di db di delte
+[v] kalo pemain mati respawn, itu -100
+[v] shop kalo dah beli gak dimunculin
+[v] Tampilan attack + weapon selected dashboard and shop
+[v] Kalo ada shield, harusnya durability weapon nyerang dikurangi
+
+> mengubah yang bisa attack step nya lebih banyak
+[v] tulisan step diganti action
+[v] kalo attack -1 action,
+[v] have shield jadi integer (di db sudah string, default 'no')
+[v] kalo pemain ngebunuh player lain, dia dapet 20% dari poin gambes, yang lawannya dikurangi 20
+[v] pemain kalo nyerang, itu diserang balik. inget kalo diserang balik terus mati, yang nyerang didelete, terus yang lawannya itu dapet poinnya,
