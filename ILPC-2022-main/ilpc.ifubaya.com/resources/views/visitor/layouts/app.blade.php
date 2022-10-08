@@ -74,7 +74,7 @@
                         </script>
                     </li>
                     <li class="nav-item dropdown dropdown-user ms-2">
-                        {{-- <a class="btn btn-outline-primary" id="dropdown-user" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="btn btn-outline-primary" id="dropdown-user" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <i data-feather="user"></i> AKUN
                         </a>
                         @auth
@@ -95,7 +95,7 @@
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="{{ route('register') }}"><i class="me-50" data-feather="edit"></i> Register</a>
                         </div>
-                        @endauth --}}
+                        @endauth
 
                     </li>
                 </ul>

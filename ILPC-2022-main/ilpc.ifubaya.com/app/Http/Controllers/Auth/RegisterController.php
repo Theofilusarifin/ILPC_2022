@@ -20,10 +20,10 @@ class RegisterController extends Controller
 
     use RegistersUsers;
 
-    public function __construct()
-    {
-        abort(404);
-    }
+    // public function __construct()
+    // {
+    //     abort(404);
+    // }
 
     public function showRegistrationForm()
     {
